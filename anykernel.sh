@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sleepy Kernel for Redmi Note 10 Pro & Pro Max by @shashank1439
+kernel.string=Sleepy Kernel for Redmi Note 10 Pro & Pro Max by @ itsshashanksp
 do.devicecheck=1
 do.modules=0
 do.systemless=1
